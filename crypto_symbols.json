@@ -1,9 +1,5 @@
 [
   {
-    "name": "Money",
-    "symbol": "$$$-USD"
-  },
-  {
     "name": "10M Token",
     "symbol": "10MT-USD"
   },
@@ -19,7 +15,7 @@
     "name": "2GIVE",
     "symbol": "2GIVE-USD"
   },
-  {
+   {
     "name": "300 Token",
     "symbol": "300-USD"
   },
@@ -31,7 +27,7 @@
     "name": "ChanCoin",
     "symbol": "4CHN-USD"
   },
-  {
+   {
     "name": "SixEleven",
     "symbol": "611-USD"
   },
@@ -51,6 +47,7 @@
     "name": "9COIN",
     "symbol": "9COIN-USD"
   },
+
   {
     "name": "Alphabit",
     "symbol": "ABC-USD"
@@ -68,6 +65,10 @@
     "symbol": "ABY-USD"
   },
   {
+    "name": "AsiaCoin",
+    "symbol": "AC-USD"
+  },
+  {
     "name": "Accelerator N...",
     "symbol": "ACC-USD"
   },
@@ -76,12 +77,12 @@
     "symbol": "ACC-USD"
   },
   {
-    "name": "Aces",
-    "symbol": "ACES-USD"
-  },
-  {
     "name": "Ace",
     "symbol": "ACE-USD"
+  },
+  {
+    "name": "Aces",
+    "symbol": "ACES-USD"
   },
   {
     "name": "Avoncoin",
@@ -100,20 +101,16 @@
     "symbol": "ACT-USD"
   },
   {
-    "name": "AsiaCoin",
-    "symbol": "AC-USD"
-  },
-  {
     "name": "Cardano",
     "symbol": "ADA-USD"
   },
   {
-    "name": "Asiadigicoin",
-    "symbol": "ADCN-USD"
-  },
-  {
     "name": "AudioCoin",
     "symbol": "ADC-USD"
+  },
+  {
+    "name": "Asiadigicoin",
+    "symbol": "ADCN-USD"
   },
   {
     "name": "Aidos Kuneen",
@@ -140,16 +137,16 @@
     "symbol": "ADZ-USD"
   },
   {
+    "name": "Aeternity",
+    "symbol": "AE-USD"
+  },
+  {
     "name": "Aeon",
     "symbol": "AEON-USD"
   },
   {
     "name": "Aerium",
     "symbol": "AERM-USD"
-  },
-  {
-    "name": "Aeternity",
-    "symbol": "AE-USD"
   },
   {
     "name": "AgrolifeCoin",
@@ -164,6 +161,10 @@
     "symbol": "AHT-USD"
   },
   {
+    "name": "POLY AI",
+    "symbol": "AI-USD"
+  },
+  {
     "name": "Advanced Inte...",
     "symbol": "AIB-USD"
   },
@@ -174,10 +175,6 @@
   {
     "name": "AirToken",
     "symbol": "AIR-USD"
-  },
-  {
-    "name": "POLY AI",
-    "symbol": "AI-USD"
   },
   {
     "name": "Akuya Coin",
@@ -196,32 +193,32 @@
     "symbol": "ALQO-USD"
   },
   {
-    "name": "AltCommunity ...",
-    "symbol": "ALTCOM-USD"
+    "name": "Altcoin",
+    "symbol": "ALT-USD"
   },
   {
     "name": "Antilitecoin",
     "symbol": "ALTC-USD"
   },
   {
-    "name": "Altcoin",
-    "symbol": "ALT-USD"
-  },
-  {
-    "name": "AmberCoin",
-    "symbol": "AMBER-USD"
+    "name": "AltCommunity ...",
+    "symbol": "ALTCOM-USD"
   },
   {
     "name": "Ambrosus",
     "symbol": "AMB-USD"
   },
   {
-    "name": "Ammo Rewards",
-    "symbol": "AMMO-USD"
+    "name": "AmberCoin",
+    "symbol": "AMBER-USD"
   },
   {
     "name": "MicroMoney",
     "symbol": "AMM-USD"
+  },
+  {
+    "name": "Ammo Rewards",
+    "symbol": "AMMO-USD"
   },
   {
     "name": "Synereo",
@@ -240,12 +237,12 @@
     "symbol": "ANI-USD"
   },
   {
-    "name": "AntiBitcoin",
-    "symbol": "ANTI-USD"
-  },
-  {
     "name": "Aragon",
     "symbol": "ANT-USD"
+  },
+  {
+    "name": "AntiBitcoin",
+    "symbol": "ANTI-USD"
   },
   {
     "name": "Antimatter",
@@ -268,16 +265,16 @@
     "symbol": "ARB-USD"
   },
   {
-    "name": "AquariusCoin",
-    "symbol": "ARCO-USD"
-  },
-  {
     "name": "Arcade Token",
     "symbol": "ARC-USD"
   },
   {
     "name": "ArcticCoin",
     "symbol": "ARC-USD"
+  },
+  {
+    "name": "AquariusCoin",
+    "symbol": "ARCO-USD"
   },
   {
     "name": "Ardor",
@@ -316,12 +313,12 @@
     "symbol": "ASN-USD"
   },
   {
-    "name": "Astro",
-    "symbol": "ASTRO-USD"
-  },
-  {
     "name": "AirSwap",
     "symbol": "AST-USD"
+  },
+  {
+    "name": "Astro",
+    "symbol": "ASTRO-USD"
   },
   {
     "name": "ATBCoin",
@@ -332,16 +329,16 @@
     "symbol": "ATL-USD"
   },
   {
+    "name": "ATMChain",
+    "symbol": "ATM-USD"
+  },
+  {
     "name": "ATMCoin",
     "symbol": "ATMC-USD"
   },
   {
     "name": "Atmos",
     "symbol": "ATMS-USD"
-  },
-  {
-    "name": "ATMChain",
-    "symbol": "ATM-USD"
   },
   {
     "name": "Atomic Coin",
@@ -356,20 +353,20 @@
     "symbol": "ATX-USD"
   },
   {
-    "name": "Auroracoin",
-    "symbol": "AUR-USD"
-  },
-  {
     "name": "AurumCoin",
     "symbol": "AU-USD"
   },
   {
-    "name": "Aventus",
-    "symbol": "AVT-USD"
+    "name": "Auroracoin",
+    "symbol": "AUR-USD"
   },
   {
     "name": "AvatarCoin",
     "symbol": "AV-USD"
+  },
+  {
+    "name": "Aventus",
+    "symbol": "AVT-USD"
   },
   {
     "name": "Axiom",
@@ -396,12 +393,12 @@
     "symbol": "BAC-USD"
   },
   {
-    "name": "LuckChain",
-    "symbol": "BASH-USD"
-  },
-  {
     "name": "BitAsean",
     "symbol": "BAS-USD"
+  },
+  {
+    "name": "LuckChain",
+    "symbol": "BASH-USD"
   },
   {
     "name": "Basic Attenti...",
@@ -436,12 +433,12 @@
     "symbol": "BCC-USD"
   },
   {
-    "name": "BlockCDN",
-    "symbol": "BCDN-USD"
-  },
-  {
     "name": "Bitcoin Diamond",
     "symbol": "BCD-USD"
+  },
+  {
+    "name": "BlockCDN",
+    "symbol": "BCDN-USD"
   },
   {
     "name": "Bitcoin Fast",
@@ -528,12 +525,16 @@
     "symbol": "BIS-USD"
   },
   {
-    "name": "bitBTC",
-    "symbol": "BITBTC-USD"
+    "name": "First Bitcoin",
+    "symbol": "BIT-USD"
   },
   {
     "name": "BitBean",
     "symbol": "BITB-USD"
+  },
+  {
+    "name": "bitBTC",
+    "symbol": "BITBTC-USD"
   },
   {
     "name": "First Bitcoin...",
@@ -556,16 +557,12 @@
     "symbol": "BITOK-USD"
   },
   {
-    "name": "bitSilver",
-    "symbol": "BITSILVER-USD"
-  },
-  {
     "name": "Bitstar",
     "symbol": "BITS-USD"
   },
   {
-    "name": "First Bitcoin",
-    "symbol": "BIT-USD"
+    "name": "bitSilver",
+    "symbol": "BITSILVER-USD"
   },
   {
     "name": "bitUSD",
@@ -604,24 +601,24 @@
     "symbol": "BLN-USD"
   },
   {
-    "name": "BlockPay",
-    "symbol": "BLOCKPAY-USD"
-  },
-  {
     "name": "Blocknet",
     "symbol": "BLOCK-USD"
+  },
+  {
+    "name": "BlockPay",
+    "symbol": "BLOCKPAY-USD"
   },
   {
     "name": "BillaryCoin",
     "symbol": "BLRY-USD"
   },
   {
-    "name": "BLUE",
-    "symbol": "BLUE-USD"
-  },
-  {
     "name": "BlueCoin",
     "symbol": "BLU-USD"
+  },
+  {
+    "name": "BLUE",
+    "symbol": "BLUE-USD"
   },
   {
     "name": "Blockchain Index",
@@ -664,12 +661,12 @@
     "symbol": "BON-USD"
   },
   {
-    "name": "BoostCoin",
-    "symbol": "BOST-USD"
-  },
-  {
     "name": "BOScoin",
     "symbol": "BOS-USD"
+  },
+  {
+    "name": "BoostCoin",
+    "symbol": "BOST-USD"
   },
   {
     "name": "Bodhi",
@@ -756,12 +753,16 @@
     "symbol": "BTA-USD"
   },
   {
+    "name": "BitBar",
+    "symbol": "BTB-USD"
+  },
+  {
     "name": "Bitbase",
     "symbol": "BTBc-USD"
   },
   {
-    "name": "BitBar",
-    "symbol": "BTB-USD"
+    "name": "Bitcoin",
+    "symbol": "BTC-USD"
   },
   {
     "name": "Bitcoin2x",
@@ -780,12 +781,12 @@
     "symbol": "BTCM-USD"
   },
   {
-    "name": "Bitcoin Red",
-    "symbol": "BTCRED-USD"
-  },
-  {
     "name": "Bitcurrency",
     "symbol": "BTCR-USD"
+  },
+  {
+    "name": "Bitcoin Red",
+    "symbol": "BTCRED-USD"
   },
   {
     "name": "Bitcoin Scrypt",
@@ -794,10 +795,6 @@
   {
     "name": "Bitcoin Silver",
     "symbol": "BTCS-USD"
-  },
-  {
-    "name": "Bitcoin",
-    "symbol": "BTC-USD"
   },
   {
     "name": "BitcoinZ",
@@ -836,12 +833,12 @@
     "symbol": "BTQ-USD"
   },
   {
-    "name": "BTSR",
-    "symbol": "BTSR-USD"
-  },
-  {
     "name": "BitShares",
     "symbol": "BTS-USD"
+  },
+  {
+    "name": "BTSR",
+    "symbol": "BTSR-USD"
   },
   {
     "name": "Bitcoin Unlim...",
@@ -960,6 +957,10 @@
     "symbol": "CBX-USD"
   },
   {
+    "name": "CyberCoin",
+    "symbol": "CC-USD"
+  },
+  {
     "name": "CCMiner",
     "symbol": "CCM100-USD"
   },
@@ -980,10 +981,6 @@
     "symbol": "CCT-USD"
   },
   {
-    "name": "CyberCoin",
-    "symbol": "CC-USD"
-  },
-  {
     "name": "Canada eCoin",
     "symbol": "CDN-USD"
   },
@@ -996,6 +993,10 @@
     "symbol": "CESC-USD"
   },
   {
+    "name": "Californium",
+    "symbol": "CF-USD"
+  },
+  {
     "name": "Confido",
     "symbol": "CFD-USD"
   },
@@ -1006,10 +1007,6 @@
   {
     "name": "CryptoForecast",
     "symbol": "CFT-USD"
-  },
-  {
-    "name": "Californium",
-    "symbol": "CF-USD"
   },
   {
     "name": "ChainCoin",
@@ -1052,12 +1049,12 @@
     "symbol": "CME-USD"
   },
   {
-    "name": "CampusCoin",
-    "symbol": "CMPCO-USD"
-  },
-  {
     "name": "Compcoin",
     "symbol": "CMP-USD"
+  },
+  {
+    "name": "CampusCoin",
+    "symbol": "CMPCO-USD"
   },
   {
     "name": "COMSA [ETH]",
@@ -1116,12 +1113,12 @@
     "symbol": "CONX-USD"
   },
   {
-    "name": "CorgiCoin",
-    "symbol": "CORG-USD"
-  },
-  {
     "name": "CORION",
     "symbol": "COR-USD"
+  },
+  {
+    "name": "CorgiCoin",
+    "symbol": "CORG-USD"
   },
   {
     "name": "COSS",
@@ -1172,12 +1169,12 @@
     "symbol": "CREA-USD"
   },
   {
-    "name": "Credo",
-    "symbol": "CREDO-USD"
-  },
-  {
     "name": "Verify",
     "symbol": "CRED-USD"
+  },
+  {
+    "name": "Credo",
+    "symbol": "CREDO-USD"
   },
   {
     "name": "CrevaCoin",
@@ -1188,12 +1185,12 @@
     "symbol": "CRM-USD"
   },
   {
-    "name": "Corethum",
-    "symbol": "CRTM-USD"
-  },
-  {
     "name": "CRTCoin",
     "symbol": "CRT-USD"
+  },
+  {
+    "name": "Corethum",
+    "symbol": "CRTM-USD"
   },
   {
     "name": "Crown",
@@ -1248,12 +1245,12 @@
     "symbol": "CV2-USD"
   },
   {
-    "name": "CVCoin",
-    "symbol": "CVCOIN-USD"
-  },
-  {
     "name": "Civic",
     "symbol": "CVC-USD"
+  },
+  {
+    "name": "CVCoin",
+    "symbol": "CVCOIN-USD"
   },
   {
     "name": "CryptoWorldX ...",
@@ -1288,20 +1285,20 @@
     "symbol": "DAR-USD"
   },
   {
-    "name": "Dashs",
-    "symbol": "DASHS-USD"
-  },
-  {
     "name": "Dash",
     "symbol": "DASH-USD"
   },
   {
-    "name": "Streamr DATAcoin",
-    "symbol": "DATA-USD"
+    "name": "Dashs",
+    "symbol": "DASHS-USD"
   },
   {
     "name": "Datum",
     "symbol": "DAT-USD"
+  },
+  {
+    "name": "Streamr DATAcoin",
+    "symbol": "DATA-USD"
   },
   {
     "name": "DavorCoin",
@@ -1340,12 +1337,12 @@
     "symbol": "DCN-USD"
   },
   {
-    "name": "DeltaCredits",
-    "symbol": "DCRE-USD"
-  },
-  {
     "name": "Decred",
     "symbol": "DCR-USD"
+  },
+  {
+    "name": "DeltaCredits",
+    "symbol": "DCRE-USD"
   },
   {
     "name": "DECENT",
@@ -1392,12 +1389,12 @@
     "symbol": "DGB-USD"
   },
   {
-    "name": "Digital Credits",
-    "symbol": "DGCS-USD"
-  },
-  {
     "name": "Digitalcoin",
     "symbol": "DGC-USD"
+  },
+  {
+    "name": "Digital Credits",
+    "symbol": "DGCS-USD"
   },
   {
     "name": "DigixDAO",
@@ -1416,12 +1413,12 @@
     "symbol": "DICE-USD"
   },
   {
-    "name": "Dimecoin",
-    "symbol": "DIME-USD"
-  },
-  {
     "name": "DIMCOIN",
     "symbol": "DIM-USD"
+  },
+  {
+    "name": "Dimecoin",
+    "symbol": "DIME-USD"
   },
   {
     "name": "DarkLisk",
@@ -1496,12 +1493,12 @@
     "symbol": "DOVU-USD"
   },
   {
-    "name": "DPAY",
-    "symbol": "DPAY-USD"
-  },
-  {
     "name": "DigitalPrice",
     "symbol": "DP-USD"
+  },
+  {
+    "name": "DPAY",
+    "symbol": "DPAY-USD"
   },
   {
     "name": "Delphy",
@@ -1568,12 +1565,12 @@
     "symbol": "E4ROW-USD"
   },
   {
-    "name": "EagleCoin",
-    "symbol": "EAGLE-USD"
-  },
-  {
     "name": "EA Coin",
     "symbol": "EAG-USD"
+  },
+  {
+    "name": "EagleCoin",
+    "symbol": "EAGLE-USD"
   },
   {
     "name": "eBitcoinCash",
@@ -1592,20 +1589,20 @@
     "symbol": "EBST-USD"
   },
   {
-    "name": "eBitcoin",
-    "symbol": "EBTC-USD"
-  },
-  {
     "name": "Ebittree Coin",
     "symbol": "EBT-USD"
   },
   {
-    "name": "Ethereum Cash",
-    "symbol": "ECASH-USD"
+    "name": "eBitcoin",
+    "symbol": "EBTC-USD"
   },
   {
     "name": "Electra",
     "symbol": "ECA-USD"
+  },
+  {
+    "name": "Ethereum Cash",
+    "symbol": "ECASH-USD"
   },
   {
     "name": "ECC",
@@ -1616,12 +1613,12 @@
     "symbol": "ECN-USD"
   },
   {
-    "name": "Ecobit",
-    "symbol": "ECOB-USD"
-  },
-  {
     "name": "EcoCoin",
     "symbol": "ECO-USD"
+  },
+  {
+    "name": "Ecobit",
+    "symbol": "ECOB-USD"
   },
   {
     "name": "Edgeless",
@@ -1632,12 +1629,12 @@
     "symbol": "EDO-USD"
   },
   {
-    "name": "EDRCoin",
-    "symbol": "EDRC-USD"
-  },
-  {
     "name": "E-Dinar Coin",
     "symbol": "EDR-USD"
+  },
+  {
+    "name": "EDRCoin",
+    "symbol": "EDRC-USD"
   },
   {
     "name": "e-Gulden",
@@ -1660,12 +1657,16 @@
     "symbol": "EGG-USD"
   },
   {
+    "name": "EGO",
+    "symbol": "EGO-USD"
+  },
+  {
     "name": "eGold",
     "symbol": "EGOLD-USD"
   },
   {
-    "name": "EGO",
-    "symbol": "EGO-USD"
+    "name": "Elcoin",
+    "symbol": "EL-USD"
   },
   {
     "name": "Elacoin",
@@ -1704,20 +1705,16 @@
     "symbol": "ELTCOIN-USD"
   },
   {
-    "name": "Elcoin",
-    "symbol": "EL-USD"
-  },
-  {
     "name": "EmberCoin",
     "symbol": "EMB-USD"
   },
   {
-    "name": "Einsteinium",
-    "symbol": "EMC2-USD"
-  },
-  {
     "name": "Emercoin",
     "symbol": "EMC-USD"
+  },
+  {
+    "name": "Einsteinium",
+    "symbol": "EMC2-USD"
   },
   {
     "name": "Emerald Crypto",
@@ -1760,12 +1757,12 @@
     "symbol": "EQT-USD"
   },
   {
-    "name": "ERC20",
-    "symbol": "ERC20-USD"
-  },
-  {
     "name": "EuropeCoin",
     "symbol": "ERC-USD"
+  },
+  {
+    "name": "ERC20",
+    "symbol": "ERC20-USD"
   },
   {
     "name": "eREAL",
@@ -1796,16 +1793,16 @@
     "symbol": "ETG-USD"
   },
   {
+    "name": "Ethereum",
+    "symbol": "ETH-USD"
+  },
+  {
     "name": "Ethereum Dark",
     "symbol": "ETHD-USD"
   },
   {
     "name": "Ethos",
     "symbol": "ETHOS-USD"
-  },
-  {
-    "name": "Ethereum",
-    "symbol": "ETH-USD"
   },
   {
     "name": "Electroneum",
@@ -1884,6 +1881,10 @@
     "symbol": "FBL-USD"
   },
   {
+    "name": "Facecoin",
+    "symbol": "FC-USD"
+  },
+  {
     "name": "FuelCoin",
     "symbol": "FC2-USD"
   },
@@ -1894,10 +1895,6 @@
   {
     "name": "Factom",
     "symbol": "FCT-USD"
-  },
-  {
-    "name": "Facecoin",
-    "symbol": "FC-USD"
   },
   {
     "name": "FireFlyCoin",
@@ -1980,12 +1977,12 @@
     "symbol": "FRAZ-USD"
   },
   {
-    "name": "Farstcoin",
-    "symbol": "FRCT-USD"
-  },
-  {
     "name": "Freicoin",
     "symbol": "FRC-USD"
+  },
+  {
+    "name": "Farstcoin",
+    "symbol": "FRCT-USD"
   },
   {
     "name": "Farad",
@@ -2032,16 +2029,16 @@
     "symbol": "FUEL-USD"
   },
   {
+    "name": "FunFair",
+    "symbol": "FUN-USD"
+  },
+  {
     "name": "FUNCoin",
     "symbol": "FUNC-USD"
   },
   {
     "name": "The Cypherfunks",
     "symbol": "FUNK-USD"
-  },
-  {
-    "name": "FunFair",
-    "symbol": "FUN-USD"
   },
   {
     "name": "FutCoin",
@@ -2076,12 +2073,12 @@
     "symbol": "GAIN-USD"
   },
   {
-    "name": "GameCredits",
-    "symbol": "GAME-USD"
-  },
-  {
     "name": "Gambit",
     "symbol": "GAM-USD"
+  },
+  {
+    "name": "GameCredits",
+    "symbol": "GAME-USD"
   },
   {
     "name": "Gapcoin",
@@ -2100,6 +2097,10 @@
     "symbol": "GAY-USD"
   },
   {
+    "name": "GoldBlocks",
+    "symbol": "GB-USD"
+  },
+  {
     "name": "GBCGoldCoin",
     "symbol": "GBC-USD"
   },
@@ -2114,10 +2115,6 @@
   {
     "name": "GameBet Coin",
     "symbol": "GBT-USD"
-  },
-  {
-    "name": "GoldBlocks",
-    "symbol": "GB-USD"
   },
   {
     "name": "GoByte",
@@ -2208,12 +2205,12 @@
     "symbol": "GOOD-USD"
   },
   {
-    "name": "Gold Pressed ...",
-    "symbol": "GPL-USD"
-  },
-  {
     "name": "GoldPieces",
     "symbol": "GP-USD"
+  },
+  {
+    "name": "Gold Pressed ...",
+    "symbol": "GPL-USD"
   },
   {
     "name": "GPU Coin",
@@ -2288,12 +2285,12 @@
     "symbol": "GXS-USD"
   },
   {
-    "name": "Halloween Coin",
-    "symbol": "HALLO-USD"
-  },
-  {
     "name": "Halcyon",
     "symbol": "HAL-USD"
+  },
+  {
+    "name": "Halloween Coin",
+    "symbol": "HALLO-USD"
   },
   {
     "name": "Hawala.Today",
@@ -2388,12 +2385,12 @@
     "symbol": "HTC-USD"
   },
   {
-    "name": "HTML5COIN",
-    "symbol": "HTML5-USD"
-  },
-  {
     "name": "HTMLCOIN",
     "symbol": "HTML-USD"
+  },
+  {
+    "name": "HTML5COIN",
+    "symbol": "HTML5-USD"
   },
   {
     "name": "HunterCoin",
@@ -2420,12 +2417,12 @@
     "symbol": "HXX-USD"
   },
   {
-    "name": "Hyper",
-    "symbol": "HYPER-USD"
-  },
-  {
     "name": "HyperStake",
     "symbol": "HYP-USD"
+  },
+  {
+    "name": "Hyper",
+    "symbol": "HYPER-USD"
   },
   {
     "name": "Hyper TV",
@@ -2516,12 +2513,12 @@
     "symbol": "INCNT-USD"
   },
   {
-    "name": "India Coin",
-    "symbol": "INDIA-USD"
-  },
-  {
     "name": "Indorse Token",
     "symbol": "IND-USD"
+  },
+  {
+    "name": "India Coin",
+    "symbol": "INDIA-USD"
   },
   {
     "name": "InfChain",
@@ -2612,16 +2609,20 @@
     "symbol": "IXT-USD"
   },
   {
+    "name": "Joincoin",
+    "symbol": "J-USD"
+  },
+  {
     "name": "Jetcoin",
     "symbol": "JET-USD"
   },
   {
-    "name": "Jinn",
-    "symbol": "JINN-USD"
-  },
-  {
     "name": "Jin Coin",
     "symbol": "JIN-USD"
+  },
+  {
+    "name": "Jinn",
+    "symbol": "JINN-USD"
   },
   {
     "name": "Janus",
@@ -2634,10 +2635,6 @@
   {
     "name": "JavaScript Token",
     "symbol": "JS-USD"
-  },
-  {
-    "name": "Joincoin",
-    "symbol": "J-USD"
   },
   {
     "name": "Jewels",
@@ -2724,12 +2721,12 @@
     "symbol": "KUSH-USD"
   },
   {
-    "name": "LanaCoin",
-    "symbol": "LANA-USD"
-  },
-  {
     "name": "LAToken",
     "symbol": "LA-USD"
+  },
+  {
+    "name": "LanaCoin",
+    "symbol": "LANA-USD"
   },
   {
     "name": "Lazaruscoin",
@@ -2844,12 +2841,12 @@
     "symbol": "LTB-USD"
   },
   {
-    "name": "Litecred",
-    "symbol": "LTCR-USD"
-  },
-  {
     "name": "Litecoin",
     "symbol": "LTC-USD"
+  },
+  {
+    "name": "Litecred",
+    "symbol": "LTCR-USD"
   },
   {
     "name": "LiteCoin Ultra",
@@ -2864,12 +2861,12 @@
     "symbol": "LTH-USD"
   },
   {
-    "name": "Luna Coin",
-    "symbol": "LUNA-USD"
-  },
-  {
     "name": "Lunyr",
     "symbol": "LUN-USD"
+  },
+  {
+    "name": "Luna Coin",
+    "symbol": "LUNA-USD"
   },
   {
     "name": "LUXCoin",
@@ -2888,16 +2885,16 @@
     "symbol": "MAD-USD"
   },
   {
+    "name": "Magnet",
+    "symbol": "MAG-USD"
+  },
+  {
     "name": "MagicCoin",
     "symbol": "MAGE-USD"
   },
   {
     "name": "Magnetcoin",
     "symbol": "MAGN-USD"
-  },
-  {
-    "name": "Magnet",
-    "symbol": "MAG-USD"
   },
   {
     "name": "MaidSafeCoin",
@@ -2912,12 +2909,12 @@
     "symbol": "MAO-USD"
   },
   {
-    "name": "Marscoin",
-    "symbol": "MARS-USD"
-  },
-  {
     "name": "Marijuanacoin",
     "symbol": "MAR-USD"
+  },
+  {
+    "name": "Marscoin",
+    "symbol": "MARS-USD"
   },
   {
     "name": "MarxCoin",
@@ -2960,12 +2957,12 @@
     "symbol": "MCO-USD"
   },
   {
-    "name": "MACRON",
-    "symbol": "MCRN-USD"
-  },
-  {
     "name": "Macro",
     "symbol": "MCR-USD"
+  },
+  {
+    "name": "MACRON",
+    "symbol": "MCRN-USD"
   },
   {
     "name": "Moeda Loyalty...",
@@ -3132,12 +3129,12 @@
     "symbol": "MTH-USD"
   },
   {
-    "name": "Metal Music Coin",
-    "symbol": "MTLMC3-USD"
-  },
-  {
     "name": "Metal",
     "symbol": "MTL-USD"
+  },
+  {
+    "name": "Metal Music Coin",
+    "symbol": "MTLMC3-USD"
   },
   {
     "name": "MTMGaming",
@@ -3208,6 +3205,10 @@
     "symbol": "NEBL-USD"
   },
   {
+    "name": "NEO",
+    "symbol": "NEO-USD"
+  },
+  {
     "name": "NEO GOLD",
     "symbol": "NEOG-USD"
   },
@@ -3216,20 +3217,16 @@
     "symbol": "NEOS-USD"
   },
   {
-    "name": "NEO",
-    "symbol": "NEO-USD"
-  },
-  {
-    "name": "Netko",
-    "symbol": "NETKO-USD"
-  },
-  {
     "name": "NetCoin",
     "symbol": "NET-USD"
   },
   {
     "name": "Nimiq",
     "symbol": "NET-USD"
+  },
+  {
+    "name": "Netko",
+    "symbol": "NETKO-USD"
   },
   {
     "name": "Neumark",
@@ -3404,6 +3401,10 @@
     "symbol": "ONX-USD"
   },
   {
+    "name": "Operand",
+    "symbol": "OP-USD"
+  },
+  {
     "name": "Opal",
     "symbol": "OPAL-USD"
   },
@@ -3414,10 +3415,6 @@
   {
     "name": "Opus",
     "symbol": "OPT-USD"
-  },
-  {
-    "name": "Operand",
-    "symbol": "OP-USD"
   },
   {
     "name": "Orbitcoin",
@@ -3480,12 +3477,12 @@
     "symbol": "PASL-USD"
   },
   {
-    "name": "PayPeer",
-    "symbol": "PAYP-USD"
-  },
-  {
     "name": "TenX",
     "symbol": "PAY-USD"
+  },
+  {
+    "name": "PayPeer",
+    "symbol": "PAYP-USD"
   },
   {
     "name": "Paypex",
@@ -3652,12 +3649,12 @@
     "symbol": "POP-USD"
   },
   {
-    "name": "PostCoin",
-    "symbol": "POST-USD"
-  },
-  {
     "name": "PoSToken",
     "symbol": "POS-USD"
+  },
+  {
+    "name": "PostCoin",
+    "symbol": "POST-USD"
   },
   {
     "name": "PoSW Coin",
@@ -3688,16 +3685,20 @@
     "symbol": "PPY-USD"
   },
   {
+    "name": "Prototanium",
+    "symbol": "PR-USD"
+  },
+  {
     "name": "PRCoin",
     "symbol": "PRC-USD"
   },
   {
-    "name": "President Trump",
-    "symbol": "PRES-USD"
-  },
-  {
     "name": "Presearch",
     "symbol": "PRE-USD"
+  },
+  {
+    "name": "President Trump",
+    "symbol": "PRES-USD"
   },
   {
     "name": "Paragon",
@@ -3724,10 +3725,6 @@
     "symbol": "PRN-USD"
   },
   {
-    "name": "ProCurrency",
-    "symbol": "PROC-USD"
-  },
-  {
     "name": "ProChain",
     "symbol": "PRO-USD"
   },
@@ -3736,8 +3733,8 @@
     "symbol": "PRO-USD"
   },
   {
-    "name": "Prototanium",
-    "symbol": "PR-USD"
+    "name": "ProCurrency",
+    "symbol": "PROC-USD"
   },
   {
     "name": "Printerium",
@@ -3776,16 +3773,16 @@
     "symbol": "PUT-USD"
   },
   {
+    "name": "PX",
+    "symbol": "PX-USD"
+  },
+  {
     "name": "Phoenixcoin",
     "symbol": "PXC-USD"
   },
   {
     "name": "Prime-XI",
     "symbol": "PXI-USD"
-  },
-  {
-    "name": "PX",
-    "symbol": "PX-USD"
   },
   {
     "name": "PRIZM",
@@ -3820,12 +3817,12 @@
     "symbol": "QBT-USD"
   },
   {
-    "name": "QuazarCoin",
-    "symbol": "QCN-USD"
-  },
-  {
     "name": "QCash",
     "symbol": "QC-USD"
+  },
+  {
+    "name": "QuazarCoin",
+    "symbol": "QCN-USD"
   },
   {
     "name": "QLINK",
@@ -3864,6 +3861,10 @@
     "symbol": "QWARK-USD"
   },
   {
+    "name": "Revain",
+    "symbol": "R-USD"
+  },
+  {
     "name": "Radium",
     "symbol": "RADS-USD"
   },
@@ -3892,16 +3893,16 @@
     "symbol": "RBY-USD"
   },
   {
+    "name": "RussiaCoin",
+    "symbol": "RC-USD"
+  },
+  {
     "name": "Rcoin",
     "symbol": "RCN-USD"
   },
   {
     "name": "Ripio Credit ...",
     "symbol": "RCN-USD"
-  },
-  {
-    "name": "RussiaCoin",
-    "symbol": "RC-USD"
   },
   {
     "name": "ReddCoin",
@@ -3952,12 +3953,12 @@
     "symbol": "RHOC-USD"
   },
   {
-    "name": "RichCoin",
-    "symbol": "RICHX-USD"
-  },
-  {
     "name": "Riecoin",
     "symbol": "RIC-USD"
+  },
+  {
+    "name": "RichCoin",
+    "symbol": "RICHX-USD"
   },
   {
     "name": "Ride My Car",
@@ -4040,10 +4041,6 @@
     "symbol": "RUPX-USD"
   },
   {
-    "name": "Revain",
-    "symbol": "R-USD"
-  },
-  {
     "name": "Rustbits",
     "symbol": "RUSTBITS-USD"
   },
@@ -4076,12 +4073,12 @@
     "symbol": "SALT-USD"
   },
   {
-    "name": "Save and Gain",
-    "symbol": "SANDG-USD"
-  },
-  {
     "name": "Santiment Net...",
     "symbol": "SAN-USD"
+  },
+  {
+    "name": "Save and Gain",
+    "symbol": "SANDG-USD"
   },
   {
     "name": "StrikeBitClub",
@@ -4094,6 +4091,10 @@
   {
     "name": "Super Bitcoin",
     "symbol": "SBTC-USD"
+  },
+  {
+    "name": "Siacoin",
+    "symbol": "SC-USD"
   },
   {
     "name": "Social",
@@ -4114,10 +4115,6 @@
   {
     "name": "Soma",
     "symbol": "SCT-USD"
-  },
-  {
-    "name": "Siacoin",
-    "symbol": "SC-USD"
   },
   {
     "name": "ShadowCash",
@@ -4152,6 +4149,10 @@
     "symbol": "SGR-USD"
   },
   {
+    "name": "Shilling",
+    "symbol": "SH-USD"
+  },
+  {
     "name": "SHACoin",
     "symbol": "SHA-USD"
   },
@@ -4174,10 +4175,6 @@
   {
     "name": "Shorty",
     "symbol": "SHORTY-USD"
-  },
-  {
-    "name": "Shilling",
-    "symbol": "SH-USD"
   },
   {
     "name": "SIBCoin",
@@ -4352,12 +4349,12 @@
     "symbol": "SPORT-USD"
   },
   {
-    "name": "Sprouts",
-    "symbol": "SPRTS-USD"
-  },
-  {
     "name": "SpreadCoin",
     "symbol": "SPR-USD"
+  },
+  {
+    "name": "Sprouts",
+    "symbol": "SPRTS-USD"
   },
   {
     "name": "Spots",
@@ -4376,20 +4373,20 @@
     "symbol": "SSS-USD"
   },
   {
-    "name": "StarCash Network",
-    "symbol": "STARS-USD"
-  },
-  {
-    "name": "Startcoin",
-    "symbol": "START-USD"
+    "name": "Starta",
+    "symbol": "STA-USD"
   },
   {
     "name": "Starbase",
     "symbol": "STAR-USD"
   },
   {
-    "name": "Starta",
-    "symbol": "STA-USD"
+    "name": "StarCash Network",
+    "symbol": "STARS-USD"
+  },
+  {
+    "name": "Startcoin",
+    "symbol": "START-USD"
   },
   {
     "name": "Santa Coin",
@@ -4476,6 +4473,10 @@
     "symbol": "SXC-USD"
   },
   {
+    "name": "name",
+    "symbol": "symbol"
+  },
+  {
     "name": "Syndicate",
     "symbol": "SYNX-USD"
   },
@@ -4488,12 +4489,12 @@
     "symbol": "TAAS-USD"
   },
   {
-    "name": "TAGRcoin",
-    "symbol": "TAGR-USD"
-  },
-  {
     "name": "TagCoin",
     "symbol": "TAG-USD"
+  },
+  {
+    "name": "TAGRcoin",
+    "symbol": "TAGR-USD"
   },
   {
     "name": "TajCoin",
@@ -4528,20 +4529,20 @@
     "symbol": "TELL-USD"
   },
   {
-    "name": "TeraCoin",
-    "symbol": "TERA-USD"
-  },
-  {
     "name": "TerraNova",
     "symbol": "TER-USD"
   },
   {
-    "name": "TeslaCoilCoin",
-    "symbol": "TESLA-USD"
+    "name": "TeraCoin",
+    "symbol": "TERA-USD"
   },
   {
     "name": "TeslaCoin",
     "symbol": "TES-USD"
+  },
+  {
+    "name": "TeslaCoilCoin",
+    "symbol": "TESLA-USD"
   },
   {
     "name": "TrueFlip",
@@ -4616,36 +4617,40 @@
     "symbol": "TODAY-USD"
   },
   {
-    "name": "SwapToken",
-    "symbol": "TOKEN-USD"
-  },
-  {
     "name": "Tokugawa",
     "symbol": "TOK-USD"
   },
   {
-    "name": "Topaz Coin",
-    "symbol": "TOPAZ-USD"
+    "name": "SwapToken",
+    "symbol": "TOKEN-USD"
   },
   {
     "name": "TopCoin",
     "symbol": "TOP-USD"
   },
   {
-    "name": "Torcoin",
-    "symbol": "TOR-USD"
+    "name": "Topaz Coin",
+    "symbol": "TOPAZ-USD"
   },
   {
-    "name": "Tracto",
-    "symbol": "TRCT-USD"
+    "name": "Torcoin",
+    "symbol": "TOR-USD"
   },
   {
     "name": "Terracoin",
     "symbol": "TRC-USD"
   },
   {
+    "name": "Tracto",
+    "symbol": "TRCT-USD"
+  },
+  {
     "name": "Trident Group",
     "symbol": "TRDT-USD"
+  },
+  {
+    "name": "Triangles",
+    "symbol": "TRI-USD"
   },
   {
     "name": "Triaconta",
@@ -4658,10 +4663,6 @@
   {
     "name": "Triggers",
     "symbol": "TRIG-USD"
-  },
-  {
-    "name": "Triangles",
-    "symbol": "TRI-USD"
   },
   {
     "name": "Truckcoin",
@@ -4768,6 +4769,10 @@
     "symbol": "UNC-USD"
   },
   {
+    "name": "Universe",
+    "symbol": "UNI-USD"
+  },
+  {
     "name": "UniCoin",
     "symbol": "UNIC-USD"
   },
@@ -4776,20 +4781,16 @@
     "symbol": "UNIFY-USD"
   },
   {
-    "name": "GameUnits",
-    "symbol": "UNITS-USD"
-  },
-  {
     "name": "Universal Cur...",
     "symbol": "UNIT-USD"
   },
   {
-    "name": "SuperNET",
-    "symbol": "UNITY-USD"
+    "name": "GameUnits",
+    "symbol": "UNITS-USD"
   },
   {
-    "name": "Universe",
-    "symbol": "UNI-USD"
+    "name": "SuperNET",
+    "symbol": "UNITY-USD"
   },
   {
     "name": "Unobtanium",
@@ -4808,16 +4809,16 @@
     "symbol": "UQC-USD"
   },
   {
+    "name": "UR",
+    "symbol": "UR-USD"
+  },
+  {
     "name": "Unrealcoin",
     "symbol": "URC-USD"
   },
   {
     "name": "Uro",
     "symbol": "URO-USD"
-  },
-  {
-    "name": "UR",
-    "symbol": "UR-USD"
   },
   {
     "name": "Ultimate Secu...",
@@ -4846,6 +4847,10 @@
   {
     "name": "UTRUST",
     "symbol": "UTK-USD"
+  },
+  {
+    "name": "Version",
+    "symbol": "V-USD"
   },
   {
     "name": "Valorbit",
@@ -4880,12 +4885,12 @@
     "symbol": "VIA-USD"
   },
   {
-    "name": "VIBE",
-    "symbol": "VIBE-USD"
-  },
-  {
     "name": "Viberate",
     "symbol": "VIB-USD"
+  },
+  {
+    "name": "VIBE",
+    "symbol": "VIBE-USD"
   },
   {
     "name": "PureVidz",
@@ -4908,12 +4913,12 @@
     "symbol": "VIVO-USD"
   },
   {
-    "name": "Vault Coin",
-    "symbol": "VLTC-USD"
-  },
-  {
     "name": "Veltor",
     "symbol": "VLT-USD"
+  },
+  {
+    "name": "Vault Coin",
+    "symbol": "VLTC-USD"
   },
   {
     "name": "Voise",
@@ -4980,8 +4985,8 @@
     "symbol": "VULC-USD"
   },
   {
-    "name": "Version",
-    "symbol": "V-USD"
+    "name": "WA Space",
+    "symbol": "WA-USD"
   },
   {
     "name": "WaBi",
@@ -4994,10 +4999,6 @@
   {
     "name": "WARP",
     "symbol": "WARP-USD"
-  },
-  {
-    "name": "WA Space",
-    "symbol": "WA-USD"
   },
   {
     "name": "Waves",
@@ -5016,12 +5017,12 @@
     "symbol": "WBB-USD"
   },
   {
-    "name": "Waves Communi...",
-    "symbol": "WCT-USD"
-  },
-  {
     "name": "WINCOIN",
     "symbol": "WC-USD"
+  },
+  {
+    "name": "Waves Communi...",
+    "symbol": "WCT-USD"
   },
   {
     "name": "WorldCoin",
@@ -5104,12 +5105,12 @@
     "symbol": "XAS-USD"
   },
   {
-    "name": "Xaurum",
-    "symbol": "XAUR-USD"
-  },
-  {
     "name": "Xaucoin",
     "symbol": "XAU-USD"
+  },
+  {
+    "name": "Xaurum",
+    "symbol": "XAUR-USD"
   },
   {
     "name": "Bitcoin Plus",
@@ -5140,12 +5141,12 @@
     "symbol": "XCO-USD"
   },
   {
-    "name": "Copico",
-    "symbol": "XCPO-USD"
-  },
-  {
     "name": "Counterparty",
     "symbol": "XCP-USD"
+  },
+  {
+    "name": "Copico",
+    "symbol": "XCPO-USD"
   },
   {
     "name": "Creatio",
@@ -5260,6 +5261,10 @@
     "symbol": "XOT-USD"
   },
   {
+    "name": "Experience Po...",
+    "symbol": "XP-USD"
+  },
+  {
     "name": "XPlay",
     "symbol": "XPA-USD"
   },
@@ -5274,10 +5279,6 @@
   {
     "name": "PlatinumBAR",
     "symbol": "XPTX-USD"
-  },
-  {
-    "name": "Experience Po...",
-    "symbol": "XP-USD"
   },
   {
     "name": "PayCoin",
@@ -5320,12 +5321,12 @@
     "symbol": "XSPEC-USD"
   },
   {
-    "name": "Safe Trade Coin",
-    "symbol": "XSTC-USD"
-  },
-  {
     "name": "Stealthcoin",
     "symbol": "XST-USD"
+  },
+  {
+    "name": "Safe Trade Coin",
+    "symbol": "XSTC-USD"
   },
   {
     "name": "XTD Coin",
@@ -5420,16 +5421,16 @@
     "symbol": "ZEIT-USD"
   },
   {
+    "name": "ZenCash",
+    "symbol": "ZEN-USD"
+  },
+  {
     "name": "ZenGold",
     "symbol": "ZENGOLD-USD"
   },
   {
     "name": "Zennies",
     "symbol": "ZENI-USD"
-  },
-  {
-    "name": "ZenCash",
-    "symbol": "ZEN-USD"
   },
   {
     "name": "Zephyr",
